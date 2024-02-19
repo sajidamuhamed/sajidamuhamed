@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajidamuhamed
 - 👀 I’m interested in computer programming and developing
-- 🌱 I’m currently learning data science foundation using R specialization
+- 🌱 I’m currently learning data science foundation using python and R specialization
 - 💞️ I’m looking to collaborate on projects here
 - 📫 you can reach me through sajidamuhamed@gmail.com
 
